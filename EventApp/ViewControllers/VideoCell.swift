@@ -1,9 +1,8 @@
 //
 //  VideoCell.swift
-//  TwoDirectionalScroller
+//  EventApp
 //
-//  Created by Robert Chen on 7/11/15.
-//  Copyright (c) 2015 Thorn Technologies. All rights reserved.
+//  Created by Swapanjeet Singh on 08/07/21.
 //
 
 import UIKit
